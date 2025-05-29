@@ -1,2 +1,2 @@
 # ppobm
-ppobm is a good pictuer site
+ppobm is a good picture site
